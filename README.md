@@ -19,7 +19,7 @@ with new concepts. I’m also interested in contributing to open source in the f
 ## 🛠️ Skills & Tools
 - **Languages:** Python, C 
 - **Libraries:** NumPy, Pandas, 
-- **AI/ML:** Machine Learning fundamentals, Generative AI, basic LLM concepts
+- **AI/ML:** Machine Learning fundamentals
 - **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
